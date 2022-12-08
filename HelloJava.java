@@ -4,7 +4,7 @@ public class HelloJava {
 
 		System.out.println("Hello Java");
 		  
-		  jhonny
+		  // jhonny test
 	
 
 	}
